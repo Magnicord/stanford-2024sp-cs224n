@@ -1,0 +1,6 @@
+[submodule "a3"]
+	path = a3
+	url = https://github.com/Magnicord/stanford-2024sp-cs224n-a3.git
+[submodule "a4"]
+	path = a4
+	url = https://github.com/Magnicord/stanford-2024sp-cs224n-a4.git
